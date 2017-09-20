@@ -1,8 +1,15 @@
 ## Chris Dunham
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Projects and code
+[Projects](https://github.com/cdunham1989/CV#projects) | [Skills](https://github.com/cdunham1989/CV#skills) | [Education](https://github.com/cdunham1989/CV#education) | [Experience](https://github.com/cdunham1989/CV#experience) | [Hobbies & Interests](https://github.com/cdunham1989/CV#hobbies-and-interests)
+
+I'm a self professed geek, full of little facts about how things work or why things happen. Since I was a child I've always enjoyed learning a wide range of things, challenging myself to develop in new and exciting ways. In my adult life so far this has taken me in a number of different directions. From secondary science teaching, to professional development of managers at a university in central London.
+
+I've always been creatively minded and have had little opportunity to explore this side of myself in my career. I believe learning to code and becoming a software developer will give me this opportunity and that really excites me.
+
+Let's get stuck in!
+
+## Projects
 
 Project | Description | Technology Used | Testing Technologies
 --------|-------------|-----------------|---------------------
@@ -10,7 +17,7 @@ Project | Description | Technology Used | Testing Technologies
 
 ## Skills
 
-#### Skill 1 (repeat for more)
+#### Expand each
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -47,13 +54,13 @@ A 16-week intensive coding bootcamp focusing on Pair programming and Test Driven
 
 **London South Bank University** (Mar '17 - Jul '17)    
 *Organisational Development Assistant*  
-- Organised and managed the training courses for all managers at the unviersity.
+- Organised and managed the training courses for all managers at the university.
 - Designed a new system for producing detailed metrics and reports for our teams performance.
 - Involved in testing, improving and updating the universities online appraisal system.
 
 **enlightenHR** (Jan '17 - Feb '17)   
 *Contractor*  
-- Worked closely with an HR company to assist with legal requirements in staff redundancy at a large hotel in Manchester.
+- Worked closely with an HR company to assist with the staff redundancy process at a large hotel in Manchester.
 
 **Vision for Education, Manchester** (Sep '16 - Dec '16)   
 *Supply Teacher*  
