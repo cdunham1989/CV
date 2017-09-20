@@ -10,34 +10,24 @@ Project | Description | Technology Used | Testing Technologies
 
 ## Skills
 
-#### This Skill
+#### Skill 1 (repeat for more)
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Motivated & Self Organised
+- Effective Project Management
+- Team Orientated.
+- Creativity
+- Inquisitive
 
 ## Education
 
 #### Makers Academy (Sep '17 - Dec '17)
 
-A 16-week intensive coding bootcamp
+A 16-week intensive coding bootcamp focusing on Pair programming and Test Driven Development.
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
+- Full stack web development
+- OOD, BDD, OOP, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
@@ -77,4 +67,4 @@ A 16-week intensive coding bootcamp
 
 ## Hobbies and Interests
 
-I am an avid consumer of media, spending a lot of time reading literature, watching films and playing video games. I greatly enjoy traveling and experiencing different cultures and I have gained an advanced level qualification in SCUBA diving whilst doing this. In my spare time, I have begun to research the field of coding and programming due to an innate interest in this area.
+I am an avid consumer of media, spending a lot of time reading literature, going to the theatre, cinema and playing video games. I greatly enjoy traveling and experiencing different cultures, I have gained an advanced level qualification in SCUBA diving whilst doing this. I also enjoy learning things in my spare time, I am currently learning how to bake and find this helps me unwind after a long day at work.
