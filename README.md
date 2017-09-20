@@ -17,10 +17,6 @@ Project | Description | Technology Used | Testing Technologies
 
 ## Skills
 
-#### Expand each
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 - Motivated & Self Organised
 - Effective Project Management
 - Team Orientated.
