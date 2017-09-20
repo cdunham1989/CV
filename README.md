@@ -2,6 +2,12 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
+## Projects and code
+
+Project | Description | Technology Used | Testing Technologies
+--------|-------------|-----------------|---------------------
+[Fizzbuzz](https://github.com/cdunham1989/fizzbuzz)|Using pair programming and TDD to create the best fizzbuzz we could.| Ruby | RSpec
+
 ## Skills
 
 #### This Skill
@@ -41,14 +47,17 @@ A 16-week intensive coding bootcamp
 - PGCE Secondary Science (Masters Level)
 - BSc Biochemistry (Hons)
 - Classification: 2:1
+- Course representative for Biochemistry.
 
-#### Any other qualifications
+#### The Friary, Lichfield (Sep '06 - Jul '08)
+
+- A Levels: Biology, Chemistry and Physics
 
 ## Experience
 
 **London South Bank University** (Mar '17 - Jul '17)    
 *Organisational Development Assistant*  
-- Organised and managed the training courses for all managers at the Unviersity.
+- Organised and managed the training courses for all managers at the unviersity.
 - Designed a new system for producing detailed metrics and reports for our teams performance.
 - Involved in testing, improving and updating the universities online appraisal system.
 
@@ -65,3 +74,7 @@ A 16-week intensive coding bootcamp
 - Worked as a secondary science teacher, teaching up to GCSE Chemistry, Physics and Biology.
 - Single handedly initiated, designed and delivered an original project within the school. Aimed at developing struggling students in areas outside of their subjects.
 - Mentor and coach for pupils, dealing with sensitive issues and supporting pupils outside
+
+## Hobbies and Interests
+
+I am an avid consumer of media, spending a lot of time reading literature, watching films and playing video games. I greatly enjoy traveling and experiencing different cultures and I have gained an advanced level qualification in SCUBA diving whilst doing this. In my spare time, I have begun to research the field of coding and programming due to an innate interest in this area.
