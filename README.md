@@ -3,6 +3,8 @@
 
 [Projects](https://github.com/cdunham1989/CV#projects) | [Skills](https://github.com/cdunham1989/CV#skills) | [Education](https://github.com/cdunham1989/CV#education) | [Experience](https://github.com/cdunham1989/CV#experience) | [Hobbies & Interests](https://github.com/cdunham1989/CV#hobbies-and-interests)
 
+Former Secondary Science Teacher with a wide range of transferable skills, currently embarking on a career change into the tech industry through Makers Academy in London.
+
 I'm a self professed geek, full of little facts about how things work or why things happen. Since I was a child I've always enjoyed learning a wide range of things, challenging myself to develop in new and exciting ways. In my adult life so far this has taken me in a number of different directions. From secondary science teaching, to professional development of managers at a university in central London.
 
 I've always been creatively minded and have had little opportunity to explore this side of myself in my career. I believe learning to code and becoming a software developer will give me this opportunity and that really excites me.
@@ -27,13 +29,14 @@ Project | Description | Technology Used | Testing Technologies
 
 #### Makers Academy (Sep '17 - Dec '17)
 
-A 16-week intensive coding bootcamp focusing on Pair programming and Test Driven Development.
+Makers Academy is an intensive boot camp focussing on full stack development and team working in an Agile (Scrum) environment, learning effective TDD, BDD and XP practices in different languages and frameworks.
 
-- Full stack web development
-- OOD, BDD, OOP, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Experience so far has made use of the following tools and techniques:
+
+- Ruby development using Sinatra, Rails, RSpec, Mini test, Capybara and Data Mapper
+- JavaScript development using Node.js, JQuery, Jasmine, Mocha/Chai/Sinon, Zombie, ExpressJS, Mongoose and Handlebars
+- Frontend development using HTML, CSS and the Bootstrap 4 CSS library
+- Supporting technologies including PostgreSQL, MongoDB and TravisCI
 
 #### Nottingham Trent University (Oct '08 - Jul '12)
 
