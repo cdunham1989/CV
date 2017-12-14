@@ -15,7 +15,9 @@ Let's get stuck in!
 
 Project | Description | Technology Used | Testing Technologies
 --------|-------------|-----------------|---------------------
-[Fizzbuzz](https://github.com/cdunham1989/fizzbuzz)|Using pair programming and TDD to create the best fizzbuzz we could.| Ruby | RSpec
+[Whisper](https://github.com/lucyborthwick/Whisper) | Final project at Makers Academy. An iOS messaging application with end-to-end encryption using our own web-socket server. | Swift, Firebase, Ruby, Sinatra | XCTest (Xcode), RSpec, SimpleCov
+[Gilded Rose](https://github.com/cdunham1989/gilded-rose)| Practice Tech Test completed as part of Makers Academy | JavaScript | Jasmine
+[Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Week long project complted as part of the Makers Academy Course with the aim to build a clone of Yelp | Rails | RSpec , Capybara
 
 ## Skills
 
