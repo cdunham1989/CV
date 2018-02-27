@@ -54,6 +54,12 @@ Experience so far has made use of the following tools and techniques:
 
 ## Experience
 
+**Infinity Works Consultancy** (Jan '18 - Feb '18)    
+*Associate Consultant*  
+- First role out of Makers Academy at a tech agency in London. Worked on a project for Sainsbury's Bank.
+- Worked on Terraform, Amazon Web Services and Docker. 
+- Involved in an agile team conducting daily standups, regular retros and sprint planning sessions.
+
 **London South Bank University** (Mar '17 - Jul '17)    
 *Organisational Development Assistant*  
 - Organised and managed the training courses for all managers at the university.
